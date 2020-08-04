@@ -1,4 +1,5 @@
-This is a color organizer application. You can choose any color and evaluate it from 1 to 5 stars. Technoligies: HTML/CSS, JavaScript, React.js
+This is a color organizer application. You can choose any color and evaluate it from 1 to 5 stars. Technologies: HTML/CSS, JavaScript, React.js
+
 
 For start this project you should do few things:
 1. Installation
